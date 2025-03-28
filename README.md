@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on various programming projects.
 - 📫 How to reach me @https://www.linkedin.com/in/priya-dave-52a490b8
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a good singer who can make people deaf:)
 
 <!---
 priyadave300/priyadave300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
